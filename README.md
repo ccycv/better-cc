@@ -1,6 +1,6 @@
 Initial release. Windows 32-bit / 64-bit releases, and Linux Cuda 9.0 combined binaries are attached.
 
-22% increased hashrate over ccminer-2.2.6.
+22% increased hashrate, ccminer-2.2.6. optimized for ravencoin
 
 There is a 0% dev donation fee for the compiled binaries to support ongoing development of this project. You can opt out of the donation by compiling from source yourself (the donation fee is in donate.h).
 
