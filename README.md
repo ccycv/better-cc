@@ -7,3 +7,6 @@ There is a 2% dev donation fee for the compiled binaries to support ongoing deve
 If you'd like to contribute more than the minimum to the project, you can set the donation percentage using --donate N to donate N% of your hashrate to the dev pool.
 
 EDIT: Fixed dev pool switching not working on Windows. Original versions would just idle for a minute; it now properly connects to the dev pool. Please re-download the Windows versions to support the project!
+
+
+Fork from nevermore, ccminer
