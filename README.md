@@ -1,4 +1,4 @@
-Initial release. Windows 32-bit / 64-bit releases, and Linux Cuda 9.0 combined binaries are attached.
+Initial release. Windows 32-bit / 64-bit releases, and Linux Cuda 9.0 and 9.1 combined binaries are attached.
 
 22% increased hashrate, ccminer-2.2.6. optimized for ravencoin
 
