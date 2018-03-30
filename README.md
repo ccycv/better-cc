@@ -1,3 +1,8 @@
+Better-ccminer 1.0 
+
+
+
+
 Initial release. Windows 64-bit releases, Cuda 9.0 and Cuda 9.1 combined binaries are attached.
 
 22% increased hashrate, ccminer-2.2.6. optimized for ravencoin
